@@ -1,7 +1,7 @@
 # CK003 limits
 
 
-Create a function block that have one imput for a integer, four parameters for LL/L/H/HH and set a output. +
+Create a function block that have one imput for a integer, four parameters for LL/L/H/HH and set a output.
 
 The output must be set in following way:
 
