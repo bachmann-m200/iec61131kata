@@ -1,2 +1,2 @@
-= CK001 staircase light
+# CK001 staircase light
 
