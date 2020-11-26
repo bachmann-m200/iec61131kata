@@ -2,4 +2,4 @@
 
   - create a simple traffic light control
   
-  - red light should shine for 9 sec then red and orange light for 4 sec, green led for 9 sec and yellow for 4 sec.
+  - red light is on for 9 seconds then red and orange for 4 seconds, green led for 9 seconds and yellow for 4 seconds.
